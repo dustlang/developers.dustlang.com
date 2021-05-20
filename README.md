@@ -1,4 +1,4 @@
-# dustlang.github.io
+# developers.dustlang.com
 > the home of the dust developers website
 
 ![CI](https://github.com/rust-lang/www.rust-lang.org/workflows/CI/badge.svg)
