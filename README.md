@@ -1,5 +1,5 @@
-# www.rust-lang.org
-> the home of the rust website
+# dustlang.github.io
+> the home of the dust developers website
 
 ![CI](https://github.com/rust-lang/www.rust-lang.org/workflows/CI/badge.svg)
 
